@@ -35,11 +35,11 @@ Include the module `ovh-angular-ui-confirm-modal` in your project and follow the
 # Installation
 
 ## Bower
-    bower install ssh://git@github.com:ovh-ux/ovh-angular-a-disabled.git --save
+    bower install ovh-angular-ui-confirm-modal --save
 
 ## NPM
 
-    npm install ssh://git@github.com:ovh-ux/ovh-angular-a-disabled.git --save
+    npm install ovh-angular-ui-confirm-modal --save
 
 ## Get the sources
 
@@ -57,11 +57,11 @@ to hear from you !
 Have a look in [CONTRIBUTING.md](https://github.com/ovh-ux/ovh-angular-ui-confirm-modal/blob/master/CONTRIBUTING.md)
 
 # Related links
- 
+
  * Contribute: https://github.com/ovh-ux/ovh-angular-ui-confirm-modal
  * Report bugs: https://github.com/ovh-ux/ovh-angular-ui-confirm-modal/issues
  * Get latest version: https://github.com/ovh-ux/ovh-angular-ui-confirm-modal
- 
+
 # License
- 
+
 See https://github.com/ovh-ux/ovh-angular-ui-confirm-modal/blob/master/LICENSE
